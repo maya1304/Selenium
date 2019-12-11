@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13874" started-at="2019-12-10T23:02:07 MST" finished-at="2019-12-10T23:02:21 MST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13874" started-at="2019-12-10T23:02:07 MST" finished-at="2019-12-10T23:02:21 MST">
+      <class name="com.guru.project.Guru_Selenium.Guru_Login_Page">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:com.guru.project.Guru_Selenium.Guru_Login_Page@67b92f0a]" name="invokeBrowser" duration-ms="12053" started-at="2019-12-10T23:02:07 MST" finished-at="2019-12-10T23:02:19 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="loginBrowser()[pri:0, instance:com.guru.project.Guru_Selenium.Guru_Login_Page@67b92f0a]" name="loginBrowser" duration-ms="1749" started-at="2019-12-10T23:02:19 MST" finished-at="2019-12-10T23:02:21 MST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginBrowser -->
+      </class> <!-- com.guru.project.Guru_Selenium.Guru_Login_Page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
